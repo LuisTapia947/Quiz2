@@ -1,0 +1,33 @@
+.divI{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 500px;
+background-color: aqua;
+}
+h2{
+    color: gray; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    margin-left: -100px;
+}
+p{
+    margin-left: -100px;
+    justify-content: center;
+   font-size: 14px;
+}
+input{
+    background-color: aquamarine;
+    width: 200px;
+    height: 20px;
+    margin-left: -100px;
+}
+.flexContenedorCarrusel{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    margin-top: 20px;
+    }
+a{
+    margin-left: -750px;
+}
